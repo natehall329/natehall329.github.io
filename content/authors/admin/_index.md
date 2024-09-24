@@ -97,10 +97,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
-  - icon: x
-    icon_pack: brands
+   - icon: fa-brands fa-x-twitter
+    icon_pack: fontawesome
     link: https://x.com/NateHall329
-    label: Follow me on Twitter
+    label: Follow me on X
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
