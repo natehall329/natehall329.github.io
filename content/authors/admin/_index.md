@@ -121,5 +121,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey! I'm Nate, a graduate candidate in psychology and neuroscience at UNC-Chapel Hill. In the new digital age of web-based communication, collaboration, and promotion I figured it'd be a good idea to finally spin-up a website where I can highlight my work. Unfortunately, I'm in the middle of doing the work so this website will slowly have to build as I have time. So, sorry if you're seeing this then that means you are mostly looking at a template website! I'm only an email away if you need to reach me, and i promise ill have more material for you to "creep" on soon ;)
+
+
+
 {style="text-align: justify;"}
