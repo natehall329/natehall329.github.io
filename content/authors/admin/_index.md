@@ -98,7 +98,7 @@ social:
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
   - icon: x
-    icon_pack: fab
+    icon_pack: brands
     link: https://x.com/NateHall329
     label: Follow me on Twitter
     display:
