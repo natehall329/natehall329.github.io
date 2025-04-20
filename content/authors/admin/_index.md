@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nate Hall
+title: Nathan (Nate) Hall
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -11,7 +11,7 @@ last_name: Hall
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏼‍💻️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: https://psychology.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Nate Hall is a comptutational psychiatry researcher who studies Borderline Personality Disorder. 
 
 # Interests to show in About widget
 interests:
@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Psychology and Neuroscience
       institution: The University of North Carolina at Chapel Hill
-      year: 2024 (expected)
+      year: 2025 (expected)
     - course: M.S. in Psychology
       institution: The Pennsylvania State University
       year: 2019
@@ -97,7 +97,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
-   - icon: fa-brands fa-x-twitter
+  - icon: fa-brands fa-x-twitter
     icon_pack: fontawesome
     link: https://x.com/NateHall329
     label: Follow me on X
