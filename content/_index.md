@@ -13,6 +13,11 @@ sections:
       username: admin
   - block: markdown
     content:
+      title: Test Section
+      text: |-
+        This is a test to see if additional sections are working.
+  - block: markdown
+    content:
       title: Research
       text: |-
         My research focuses on computational approaches to understanding personality pathology, particularly Borderline Personality Disorder (BPD). I use advanced statistical methods and multimodal data analysis to investigate the developmental trajectories and neural mechanisms underlying BPD symptoms.
