@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computational Psychiatry Researcher trying to understand personality pathology
+role: Welcome! I'm a computational psychiatry researcher focused on furthering our understanding of personality pathology
 
 # Avatar (filename or URL)
 avatar: avatar.png

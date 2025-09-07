@@ -11,6 +11,20 @@
         {{ $avatar_path := printf "authors/%s/%s" $username $avatar }}
         <img class="avatar avatar-circle" src="{{ $avatar_path | relURL }}" alt="{{ $person.title | default $username }}" itemprop="image">
       {{ end }}
+      
+      {{/* Social/Academic links */}}
+      {{ if $person.social }}
+        <div class="social-links mt-3">
+          {{ range $person.social }}
+            {{ if .link }}
+              <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm me-2 mb-2" title="{{ .label | default .icon }}">
+                <i class="{{ if eq .icon_pack "ai" }}ai ai-{{ .icon }}{{ else if eq .icon_pack "fab" }}fab fa-{{ .icon }}{{ else if eq .icon_pack "fas" }}fas fa-{{ .icon }}{{ else if eq .icon_pack "fontawesome" }}{{ .icon }}{{ end }}"></i>
+                {{ with .label }}<span class="ms-1 d-none d-md-inline">{{ . }}</span>{{ end }}
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
     <div class="col-12 col-lg-8">
       {{ with $block.content.title }}<h1 itemprop="name">{{ . | markdownify | emojify }}</h1>{{ end }}
