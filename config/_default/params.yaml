@@ -109,6 +109,9 @@ extensions:
   academicons:
     enable: true
 
+# Custom CSS
+plugins_css: ["custom"]
+
 # Security
 
 security:
