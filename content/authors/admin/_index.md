@@ -118,7 +118,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Nathan-Hall-3
     label: ResearchGate
-  - icon: database
+  - icon: globe
     icon_pack: fas
     link: https://osf.io/8rxbm/
     label: Open Science Framework
@@ -126,10 +126,6 @@ social:
     icon_pack: fab
     link: https://github.com/natehall329
     label: GitHub
-  - icon: file-pdf
-    icon_pack: fas
-    link: uploads/cv_current.pdf
-    label: Download CV
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
