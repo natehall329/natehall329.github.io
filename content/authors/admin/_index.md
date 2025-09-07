@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: Computational Psychiatry Researcher trying to understand personality pathology
 
 # Avatar (filename or URL)
 avatar: avatar.png
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Univeristy of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
+  - name: PhD Candidate, The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
     url: https://psychology.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -106,19 +106,30 @@ social:
     label: Follow me on X
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Gd6RK1AAAAAJ&hl=en
+    label: Google Scholar
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2849-0321
+    label: ORCID
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Nathan-Hall-10
+    label: ResearchGate
+  - icon: osf
+    icon_pack: ai
+    link: https://osf.io/profile/
+    label: Open Science Framework
   - icon: github
     icon_pack: fab
     link: https://github.com/natehall329
-  
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    label: GitHub
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    label: Download CV
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
