@@ -6,19 +6,21 @@ a[href*="osf.io"] i.fa-flask {
 a[href*="osf.io"]:before {
   content: "";
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 2.5rem;
+  height: 2.5rem;
   background-image: url('/images/icons/SVG/osf1000.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   vertical-align: middle;
+  filter: brightness(0) saturate(100%) invert(69%) sepia(25%) saturate(430%) hue-rotate(174deg) brightness(95%) contrast(85%);
 }
 
-/* Ensure the custom OSF icon has proper spacing */
+/* Ensure the custom OSF icon has proper spacing and matches other icons */
 a[href*="osf.io"] {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 2.5rem;
+  height: 2.5rem;
   text-align: center;
+  line-height: 2.5rem;
 }
