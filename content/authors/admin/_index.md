@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Welcome! I'm a computational psychiatry researcher focused on furthering our understanding of personality pathology
+role: 
 
 # Avatar (filename or URL)
 avatar: avatar.png
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: PhD Candidate, The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
+  - name: The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
     url: https://psychology.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -128,7 +128,7 @@ social:
     label: GitHub
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_current.pdf
     label: Download CV
 
 # Highlight the author in author lists? (true/false)

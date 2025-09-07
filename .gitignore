@@ -12,3 +12,4 @@ CLAUDE.md
 uploads/cv_current.docx
 .gitignore
 uploads/~$_current.docx
+.DS_Store
