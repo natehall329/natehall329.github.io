@@ -19,6 +19,9 @@ superuser: true
 # Role/position/tagline
 role: Doctoral Candidate
 
+# Avatar (filename or URL)
+avatar: avatar.png
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Univeristy of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
