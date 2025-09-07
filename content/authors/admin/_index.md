@@ -118,7 +118,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Nathan-Hall-3
     label: ResearchGate
-  - icon: globe
+  - icon: microscope
     icon_pack: fas
     link: https://osf.io/8rxbm/
     label: Open Science Framework
