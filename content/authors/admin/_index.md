@@ -106,28 +106,28 @@ social:
     label: Follow me on X
     display:
       header: true
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: google
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=Gd6RK1AAAAAJ&hl=en
     label: Google Scholar
   - icon: orcid
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/0000-0003-4598-8123
     label: ORCID
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Nathan-Hall-3
     label: ResearchGate
-  - icon: osf
-    icon_pack: ai
+  - icon: database
+    icon_pack: fas
     link: https://osf.io/8rxbm/
     label: Open Science Framework
   - icon: github
     icon_pack: fab
     link: https://github.com/natehall329
     label: GitHub
-  - icon: cv
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: fas
     link: uploads/cv_current.pdf
     label: Download CV
 
