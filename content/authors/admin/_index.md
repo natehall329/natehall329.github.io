@@ -128,7 +128,7 @@ social:
     label: GitHub
   - icon: file-pdf
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: uploads/cv_current.pdf
     label: Download CV
 
 # Highlight the author in author lists? (true/false)
