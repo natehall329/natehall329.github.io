@@ -100,8 +100,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
-  - icon: fa-brands fa-x-twitter
-    icon_pack: fontawesome
+  - icon: x-twitter
+    icon_pack: fab
     link: https://x.com/NateHall329
     label: Follow me on X
     display:
