@@ -112,15 +112,15 @@ social:
     label: Google Scholar
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-2849-0321
+    link: https://orcid.org/0000-0003-4598-8123
     label: ORCID
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Nathan-Hall-10
+    link: https://www.researchgate.net/profile/Nathan-Hall-3
     label: ResearchGate
   - icon: osf
     icon_pack: ai
-    link: https://osf.io/profile/
+    link: https://osf.io/8rxbm/
     label: Open Science Framework
   - icon: github
     icon_pack: fab
