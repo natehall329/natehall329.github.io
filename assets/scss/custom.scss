@@ -12,8 +12,8 @@ a[href*="osf.io"]:before {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  vertical-align: middle;
-  filter: brightness(0) saturate(100%) invert(69%) sepia(25%) saturate(430%) hue-rotate(174deg) brightness(95%) contrast(85%);
+  vertical-align: bottom;
+  filter: brightness(0) saturate(100%) invert(85%) sepia(15%) saturate(300%) hue-rotate(174deg) brightness(110%) contrast(90%);
 }
 
 /* Ensure the custom OSF icon has proper spacing and matches other icons */
