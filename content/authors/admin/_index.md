@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Doctoral Candidate
 
 # Avatar (filename or URL)
 avatar: avatar.png
