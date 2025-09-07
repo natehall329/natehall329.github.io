@@ -46,5 +46,10 @@ When making changes to this Hugo academic website:
 
 ## Commands to run
 - Build: `hugo`
-- Local server: `hugo server`
+- Local server: `hugo server` (Note: Local dev server may not work due to Hugo version compatibility issues with theme. Use live site for previewing.)
 - Deploy: `git add -A && git commit -m "message" && git push`
+
+## Git Configuration Notes
+- Remote is configured to use SSH (git@github.com:natehall329/natehall329.github.io.git)
+- HTTPS authentication was causing HTTP 400 errors, SSH works reliably
+- If push fails with HTTP 400, ensure remote is set to SSH: `git remote set-url origin git@github.com:natehall329/natehall329.github.io.git`

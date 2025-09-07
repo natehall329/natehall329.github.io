@@ -6,18 +6,10 @@
   {{ $person := .Params }}
   <div class="row justify-content-center">
     <div class="col-12 col-lg-3">
-      {{ $avatar := $person.avatar | default "avatar" }}
-      {{ $avatar_src := "" }}
-      {{ if not (eq $avatar "") }}
-        {{ $avatar_src = printf "authors/%s/%s" $username $avatar | resources.Get }}
-        {{ if $avatar_src }}
-          {{ $avatar_src = $avatar_src.RelPermalink }}
-        {{ else }}
-          {{ $avatar_src = printf "%s/%s" .RelPermalink $avatar }}
-        {{ end }}
-      {{ end }}
-      {{ if $avatar_src }}
-        <img class="avatar" src="{{ $avatar_src }}" alt="{{ $person.name | default $username }}" itemprop="image">
+      {{ $avatar := $person.avatar | default "avatar.jpg" }}
+      {{ if $avatar }}
+        {{ $avatar_path := printf "authors/%s/%s" $username $avatar }}
+        <img class="avatar avatar-circle" src="{{ $avatar_path | relURL }}" alt="{{ $person.title | default $username }}" itemprop="image">
       {{ end }}
     </div>
     <div class="col-12 col-lg-8">
