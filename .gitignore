@@ -9,3 +9,6 @@ node_modules/
 go.sum
 .hugo_build.lock
 CLAUDE.md
+uploads/cv_current.docx
+.gitignore
+uploads/~$_current.docx
