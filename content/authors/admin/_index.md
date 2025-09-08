@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a><br>—————————————————————————<br><a href="https://psychology.unc.edu/" target="_blank">The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience</a>
+role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a><br>—————————————————————————<br>The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
 
 # Avatar (filename or URL)
 avatar: avatar.png
@@ -99,12 +99,6 @@ social:
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
     label: Email
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://x.com/NateHall329
-    label: X (Twitter)
-    display:
-      header: true
   - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?user=Gd6RK1AAAAAJ&hl=en
