@@ -11,16 +11,30 @@ a[href*="osf.io"]:before {
   background-image: url('/images/icons/SVG/osf1000.svg');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
-  vertical-align: bottom;
-  filter: brightness(0) saturate(100%) invert(85%) sepia(15%) saturate(300%) hue-rotate(174deg) brightness(110%) contrast(90%);
+  background-position: center bottom;
+  vertical-align: baseline;
+  /* Use exact color #bbdefb instead of complex filter */
+  filter: brightness(0) invert(1);
+}
+
+/* Create the exact color using CSS mask instead of filter */
+a[href*="osf.io"]:before {
+  background: #bbdefb;
+  -webkit-mask-image: url('/images/icons/SVG/osf1000.svg');
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-image: url('/images/icons/SVG/osf1000.svg');
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
 }
 
 /* Ensure the custom OSF icon has proper spacing and matches other icons */
 a[href*="osf.io"] {
-  display: inline-block;
+  display: inline-flex;
+  align-items: flex-end;
   width: 2.5rem;
   height: 2.5rem;
   text-align: center;
-  line-height: 2.5rem;
 }
