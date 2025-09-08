@@ -100,10 +100,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:natehall@unc.edu'
+    label: Email
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/NateHall329
-    label: Follow me on X
+    label: X (Twitter)
     display:
       header: true
   - icon: google
@@ -113,7 +114,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-4598-8123
-    label: ORCID
+    label: ORCID iD
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Nathan-Hall-3
@@ -121,7 +122,7 @@ social:
   - icon: flask
     icon_pack: fas
     link: https://osf.io/8rxbm/
-    label: Open Science Framework
+    label: OSF Profile
   - icon: github
     icon_pack: fab
     link: https://github.com/natehall329

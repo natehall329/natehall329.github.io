@@ -1,10 +1,11 @@
-/* Custom OSF Icon - Match Font Awesome baseline exactly */
+/* Custom OSF Icon - Move entire icon down to align bottom */
 a[href*="osf.io"] {
   position: relative;
   display: inline-block;
   width: 2.5rem;
   height: 2.5rem;
   vertical-align: baseline;
+  transform: translateY(0.15rem); /* Move entire icon down instead of making it smaller */
 }
 
 /* Hide the original flask icon completely */
@@ -12,14 +13,14 @@ a[href*="osf.io"] i.fa-flask {
   display: none !important;
 }
 
-/* Replace with OSF SVG - position to match Font Awesome baseline */
+/* Replace with OSF SVG - full size, just shifted down via parent transform */
 a[href*="osf.io"]:after {
   content: "";
   position: absolute;
-  top: 0.15rem; /* Slight adjustment to match Font Awesome baseline */
+  top: 0;
   left: 0;
   width: 100%;
-  height: calc(100% - 0.15rem);
+  height: 100%;
   background: #bbdefb;
   -webkit-mask-image: url('/images/icons/SVG/osf1000.svg');
   -webkit-mask-size: contain;
