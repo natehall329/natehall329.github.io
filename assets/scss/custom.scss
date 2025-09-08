@@ -31,3 +31,11 @@ a[href*="osf.io"]:after {
   mask-repeat: no-repeat;
   mask-position: center;
 }
+
+/* Hide bottom divider line after role section */
+.biography-container hr,
+.author-card hr,
+.portrait-title hr,
+.biography hr {
+  display: none !important;
+}
