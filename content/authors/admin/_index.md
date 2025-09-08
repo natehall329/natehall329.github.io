@@ -41,13 +41,13 @@ interests:
 education:
   courses:
     - course: PhD in Psychology and Neuroscience
-      institution: <a href="https://www.unc.edu/" target="_blank">The University of North Carolina at Chapel Hill</a>
+      institution: The University of North Carolina at Chapel Hill
       year: 2025 (expected)
     - course: M.S. in Psychology
-      institution: <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>
+      institution: The Pennsylvania State University
       year: 2019
     - course: BA in Psychology and Philsophy
-      institution: <a href="https://www.binghamton.edu/" target="_blank">Binghamton University (SUNY)</a>
+      institution: Binghamton University (SUNY)
       year: 2015
 
 # Skills
