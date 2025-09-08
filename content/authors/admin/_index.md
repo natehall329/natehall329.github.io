@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a>
+role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a><br><hr style="margin: 10px 0; border: none; height: 1px; background-color: #ccc;">
 
 # Avatar (filename or URL)
 avatar: avatar.png
