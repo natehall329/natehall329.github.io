@@ -10,8 +10,9 @@ When making changes to this Hugo academic website:
 
 2. **Build and deploy verification**
    - After making changes, commit and push to GitHub
-   - Wait 2-3 minutes for GitHub Pages to rebuild
+   - Wait 1-2 minutes for GitHub Pages to rebuild
    - Use WebFetch to confirm changes are live before reporting completion
+   - Investigate the page, searching specifically for the exact changes requested. If the user requests an element to be changed, you must check that the change has been properly applied and if it has not, make changes that will complete the user's request before reporting back to the user.
    - If changes don't appear, investigate build issues or caching problems
 
 3. **Navigation and content structure**

@@ -5,7 +5,7 @@ a[href*="osf.io"] {
   width: 2.5rem;
   height: 2.5rem;
   vertical-align: baseline;
-  transform: translateY(0.8rem); /* Move entire icon down to align with other icons */
+  transform: translateY(-0.4rem); /* Move entire icon UP to align with other icons */
 }
 
 /* Hide the original flask icon completely */
