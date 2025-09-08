@@ -65,3 +65,6 @@ When making changes to this Hugo academic website:
 - Remote is configured to use SSH (git@github.com:natehall329/natehall329.github.io.git)
 - HTTPS authentication was causing HTTP 400 errors, SSH works reliably
 - If push fails with HTTP 400, ensure remote is set to SSH: `git remote set-url origin git@github.com:natehall329/natehall329.github.io.git`
+
+## Task Completion Notification
+- **Always play the glass sound when finishing a task**: Use `afplay /System/Library/Sounds/Glass.aiff` to alert the user to check the terminal

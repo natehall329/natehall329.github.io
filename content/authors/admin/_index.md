@@ -42,12 +42,15 @@ education:
   courses:
     - course: PhD in Psychology and Neuroscience
       institution: The University of North Carolina at Chapel Hill
+      institution_url: https://www.unc.edu/
       year: 2025 (expected)
     - course: M.S. in Psychology
       institution: The Pennsylvania State University
+      institution_url: https://www.psu.edu/
       year: 2019
     - course: BA in Psychology and Philsophy
       institution: Binghamton University (SUNY)
+      institution_url: https://www.binghamton.edu/
       year: 2015
 
 # Skills
