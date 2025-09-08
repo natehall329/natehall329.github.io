@@ -60,15 +60,31 @@ a[href*="osf.io"]:after {
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
 }
 
-/* Style the name/title */
-.portrait-title h1 {
-  font-weight: 300;
-  letter-spacing: -1px;
-  margin-bottom: 0.5rem;
+/* Style the name/title - Force single line on all devices */
+.portrait-title h1,
+.portrait h1,
+h1.hero-title,
+.hero-title {
+  font-weight: 300 !important;
+  letter-spacing: -1px !important;
+  margin-bottom: 0.5rem !important;
   white-space: nowrap !important;
-  font-size: 0.9rem !important;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  font-size: 0.85rem !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  max-width: 100% !important;
+  display: block !important;
+}
+
+/* Desktop specific override */
+@media (min-width: 768px) {
+  .portrait-title h1,
+  .portrait h1,
+  h1.hero-title,
+  .hero-title {
+    font-size: 0.8rem !important;
+    white-space: nowrap !important;
+  }
 }
 
 /* Style the role/affiliation text */
