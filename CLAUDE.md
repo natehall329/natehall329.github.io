@@ -32,6 +32,17 @@ When making changes to this Hugo academic website:
    - Check git log to confirm commits were pushed successfully
    - Consider GitHub Pages deployment delays
 
+## CRITICAL: Work Verification Requirements
+**NEVER declare a task complete without proper verification:**
+
+1. **Visual/UI Changes**: Always verify changes are visible on the live site using WebFetch
+2. **Multiple verification attempts**: If first verification is inconclusive, wait longer and re-verify
+3. **Screenshot comparison**: When user provides screenshots showing issues, ensure your fix addresses the exact problem shown
+4. **Iterative fixes**: If initial fix doesn't work, acknowledge failure and try a more substantial approach
+5. **No assumptions**: Never assume small CSS adjustments will fix major alignment issues - be bold with adjustments when needed
+
+**This prevents endless back-and-forth and user frustration from claiming work is complete when it clearly isn't.**
+
 ## Website Structure Notes
 - Main site: https://natehall329.github.io
 - Owner: Nathan (Nate) Hall, PhD candidate in Psychology/Neuroscience at UNC
