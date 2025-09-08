@@ -129,6 +129,4 @@ highlight_name: true
 
 I'm a graduate candidate in psychology and neuroscience at UNC-Chapel Hill who uses methods from computational psychiatry to understand (borderline) personality pathology. My research focuses on leveraging modern statistical and computational tools to elucidate the algorithmic and neurobiological underpinnings of personality pathology, with particular emphasis on the clustering of symptoms often described as borderline personality pathology—including affective instability, impulsivity, suicidality, and identity diffusion.
 
-
-
 {style="text-align: justify;"}
