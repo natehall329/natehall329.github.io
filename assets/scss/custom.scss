@@ -1,9 +1,10 @@
-/* Custom OSF Icon - Complete replacement approach */
+/* Custom OSF Icon - Match Font Awesome baseline exactly */
 a[href*="osf.io"] {
   position: relative;
   display: inline-block;
   width: 2.5rem;
   height: 2.5rem;
+  vertical-align: baseline;
 }
 
 /* Hide the original flask icon completely */
@@ -11,14 +12,14 @@ a[href*="osf.io"] i.fa-flask {
   display: none !important;
 }
 
-/* Replace with OSF SVG positioned exactly like other icons */
+/* Replace with OSF SVG - position to match Font Awesome baseline */
 a[href*="osf.io"]:after {
   content: "";
   position: absolute;
-  top: 0;
+  top: 0.15rem; /* Slight adjustment to match Font Awesome baseline */
   left: 0;
   width: 100%;
-  height: 100%;
+  height: calc(100% - 0.15rem);
   background: #bbdefb;
   -webkit-mask-image: url('/images/icons/SVG/osf1000.svg');
   -webkit-mask-size: contain;
