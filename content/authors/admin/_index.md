@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a><br>—————————————————————————<br>The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience
+role: Doctoral Candidate<br><a href="https://dependlab.unc.edu/" target="_blank">Developmental Personality Neuroscience (DEPENd) Lab</a><br>————————————————<br><a href="https://psychology.unc.edu/" target="_blank">The University of North Carolina at Chapel Hill - Department of Psychology and Neuroscience</a>
 
 # Avatar (filename or URL)
 avatar: avatar.png
@@ -41,13 +41,13 @@ interests:
 education:
   courses:
     - course: PhD in Psychology and Neuroscience
-      institution: The University of North Carolina at Chapel Hill
+      institution: <a href="https://www.unc.edu/" target="_blank">The University of North Carolina at Chapel Hill</a>
       year: 2025 (expected)
     - course: M.S. in Psychology
-      institution: The Pennsylvania State University
+      institution: <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>
       year: 2019
     - course: BA in Psychology and Philsophy
-      institution: Binghamton University (SUNY)
+      institution: <a href="https://www.binghamton.edu/" target="_blank">Binghamton University (SUNY)</a>
       year: 2015
 
 # Skills
