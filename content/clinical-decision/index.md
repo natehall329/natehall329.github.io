@@ -24,7 +24,7 @@ This multifaceted approach enables my research program to move beyond purely des
 
 
 
-
+<!-- 
 This is a question I get asked occasionally, so I thought I'd address it here. When I started my graduate training I was deeply invested in learning the tools that clinical psychologists used in psychotherapy to treat psychotherapy. Most of what I learned clinically comes from my time at PSU where I completed the coursework and clinical practicum requirements that every clinical trainee completes prior to internship. I learned invaluable lessons during my clinical training: I completed training courses in structured clinical assessment and diagnosis, motivational interviewing, CBT, and neuropsychological assessment. Outside of my formal clinical training, I was receiving assessment and diagnostic training from my research mentor, Dr. Michael Hallquist, to perform detailed clinical assessments for ongoing research studies in the lab and completed over 100 diagnostic interviews in this context. I was even lucky enough to complete two years of training in Transference Focused Psychotherapy for the treatment of patients with clinically significant personality pathology: a rare opportunity for instruction in a highly structured psychodynamic psychotherapy that many clinicians never receive.
 
 Over the course of my clinical training at PSU and UNC
@@ -39,4 +39,4 @@ My decision was driven by my passion for research and discovery rather than dire
 
 The clinical training I received has been invaluable to my research - it provides me with a deep understanding of the lived experience of mental health conditions and ensures that my research questions are clinically meaningful. However, my calling lies in contributing to our scientific understanding of these conditions rather than providing direct treatment.
 
-I have tremendous respect for clinical psychologists and the vital work they do. My path simply led me toward research, where I hope to contribute to better understanding and ultimately better treatments for personality pathology.
+I have tremendous respect for clinical psychologists and the vital work they do. My path simply led me toward research, where I hope to contribute to better understanding and ultimately better treatments for personality pathology. -->
