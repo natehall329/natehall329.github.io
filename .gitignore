@@ -13,3 +13,14 @@ uploads/cv_current.docx
 .gitignore
 uploads/~$_current.docx
 .DS_Store
+.DS_Store
+.Rproj.user/.DS_Store
+assets/.DS_Store
+config/.DS_Store
+content/.DS_Store
+content/authors/.DS_Store
+.Rproj.user/.DS_Store
+assets/.DS_Store
+config/.DS_Store
+content/.DS_Store
+content/authors/.DS_Store
