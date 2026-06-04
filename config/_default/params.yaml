@@ -112,6 +112,9 @@ extensions:
 # Custom CSS
 plugins_css: ["custom"]
 
+# Custom JS
+plugins_js: ["custom"]
+
 # Security
 
 security:

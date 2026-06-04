@@ -1,6 +1,9 @@
 ---
-# Display name
+# Display name (used on the homepage biography)
 title: Nathan (Nate) Hall
+
+# Name shown when linked from elsewhere, e.g. publication author lists (formal CV name)
+linktitle: Nathan T. Hall
 
 # Name pronunciation (optional)
 name_pronunciation: ''
