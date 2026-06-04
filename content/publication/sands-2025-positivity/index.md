@@ -2,7 +2,7 @@
 title: 'Positivity Resonance in Youth at Clinical High Risk for Psychosis and Caregivers:
   Findings from a Dyadic Automated Facial Expressions Analysis Approach'
 authors:
-- Bryan Sands
+- Beckett Sands
 - admin
 - Alison M. Schreiber
 - Nicole Alexander
