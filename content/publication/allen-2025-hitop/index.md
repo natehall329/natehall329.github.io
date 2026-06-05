@@ -4,22 +4,20 @@ title: Integrating HiTOP and Computational Psychiatry to Usher in a New Era of C
 authors:
 - Timothy A. Allen
 - Alison M. Schreiber
-- Kayla Azfali
-- Scott Blain
+- Scott D. Blain
+- Christina O. Carlisi
 - Colin G. DeYoung
-- Anna Docherty
 - Alex Fornito
 - Claire Gillan
 - Vina Goghari
 - admin
 - Philipp Homan
-- Antonia Kaczkurkin
+- Antonia N. Kaczkurkin
 - Roman Kotov
 - Robert F. Krueger
-- Robert Latzman
-- Aysenil Okan
-- James Pisciandaro
-- Jennifer Tackett
+- Robert D. Latzman
+- Aysenur Okan
+- Jennifer L. Tackett
 - Michael N. Hallquist
 date: '2025-01-01'
 publishDate: '2026-06-03T13:17:19.901912Z'
