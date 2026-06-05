@@ -1,6 +1,5 @@
 ---
-title: Integrating HiTOP and Computational Psychiatry to Usher in a New Era of Clinical
-  Science
+title: Integrating HiTOP and Computational Psychiatry for a New Era of Clinical Science
 authors:
 - Timothy A. Allen
 - Alison M. Schreiber
