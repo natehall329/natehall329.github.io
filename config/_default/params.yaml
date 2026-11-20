@@ -13,13 +13,13 @@ appearance:
 
 # SEO
 
-# marketing:
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: 'Nathan Hall - PhD Candidate in Psychology and Neuroscience at UNC Chapel Hill'
-#     twitter: ''
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Nate Hall - computational psychiatry researcher and PhD candidate in Psychology and Neuroscience at UNC Chapel Hill, studying affect, reinforcement learning, and personality pathology.'
+    twitter: ''
 #   analytics:
 #     google_analytics: ''
 #     baidu_tongji: ''
@@ -66,11 +66,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/natehall329/natehall329.github.io'
     content_dir: content
     branch: main
   avatar:

@@ -29,7 +29,7 @@ avatar: avatar.png
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nate Hall is a comptutational psychiatry researcher who studies Borderline Personality Disorder. 
+bio: Nate Hall is a computational psychiatry researcher who studies Borderline Personality Disorder. 
 
 # Interests to show in About widget
 interests:
@@ -46,12 +46,12 @@ education:
     - course: PhD in Psychology and Neuroscience
       institution: The University of North Carolina at Chapel Hill
       url: https://www.unc.edu/
-      year: 2025 (expected)
+      year: 2026 (expected)
     - course: M.S. in Psychology
       institution: The Pennsylvania State University
       url: https://www.psu.edu/
       year: 2019
-    - course: BA in Psychology and Philsophy
+    - course: BA in Psychology and Philosophy
       institution: Binghamton University (SUNY)
       url: https://www.binghamton.edu/
       year: 2015
@@ -130,6 +130,6 @@ social:
 highlight_name: true
 ---
 
-I'm a graduate candidate in psychology and neuroscience at UNC-Chapel Hill who uses methods from computational psychiatry to understand (borderline) personality pathology. My research focuses on leveraging modern statistical and computational tools to elucidate the algorithmic and neurobiological underpinnings of personality pathology, with particular emphasis on the clustering of symptoms often described as borderline personality pathology—including affective instability, impulsivity, suicidality, and identity diffusion.
+I'm a doctoral candidate in psychology and neuroscience at UNC-Chapel Hill who uses methods from computational psychiatry to understand (borderline) personality pathology. My research focuses on leveraging modern statistical and computational tools to elucidate the algorithmic and neurobiological underpinnings of personality pathology, with particular emphasis on the clustering of symptoms often described as borderline personality pathology—including affective instability, impulsivity, suicidality, and identity diffusion.
 
 {style="text-align: justify;"}
