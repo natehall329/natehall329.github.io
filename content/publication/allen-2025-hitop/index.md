@@ -1,5 +1,6 @@
 ---
-title: Integrating HiTOP and Computational Psychiatry for a New Era of Clinical Science
+title: Integrating the Hierarchical Taxonomy of Psychopathology and computational
+  psychiatry
 authors:
 - Timothy A. Allen
 - Alison M. Schreiber
@@ -7,8 +8,8 @@ authors:
 - Christina O. Carlisi
 - Colin G. DeYoung
 - Alex Fornito
-- Claire Gillan
-- Vina Goghari
+- Claire M. Gillan
+- Vina M. Goghari
 - admin
 - Philipp Homan
 - Antonia N. Kaczkurkin
@@ -18,12 +19,10 @@ authors:
 - Aysenur Okan
 - Jennifer L. Tackett
 - Michael N. Hallquist
-date: '2025-01-01'
+date: '2026-10-09'
 publishDate: '2026-06-03T13:17:19.901912Z'
 publication_types:
 - article-journal
-publication: '*PsyArXiv (in press)*'
-links:
-- name: URL
-  url: https://osf.io/preprints/psyarxiv/sbuvd_v1
+publication: '*Nature Reviews Psychology*, 5, 757-772'
+doi: 10.1038/s44159-026-00621-7
 ---
